@@ -4,6 +4,10 @@ Python Workshop for the MIS Society, November 18, 2014
 
 ##Workshop Structure:
 1. Install Python - see presentation for more detail
+
+:exclamation: if you are unable to install use this environment  [Labs.Codecademy](http://labs.codecademy.com/#:workspace)
+
+
 2. Open up command-line Terminal or Powershell
 3. Run Interactive Python Shell, on the command-line  ```python```
 4. Take a look at the statements in the pyScripts folder. Try different combinations. Look up If statements, While loops, Function declaration. 
